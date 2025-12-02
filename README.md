@@ -1,16 +1,33 @@
-## Hi there 👋
+# Johannes Hernehult
 
-<!--
-**johannes-hernehult/johannes-hernehult** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with frontend focus. 3.5 years professional experience.
 
-Here are some ideas to get you started:
+Currently on parental leave and seeking opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages:** JavaScript, TypeScript, CSS, HTML
+
+**Frontend:** React, Next.js, Zustand
+
+**Backend:** Deno
+
+**Databases:** Neon, Turso, SQLite
+
+**Tools:** Git, GitHub, Vercel, Netlify, Linux (Fedora), Zed
+
+## Projects
+
+### [Sollys](https://github.com/johannes-hernehult/sollys)
+Daylight tracking web app that displays sunrise/sunset times and provides personalized tips for managing seasonal light changes. Built with Next.js, TypeScript, Zustand, Turso DB, and vanilla CSS.
+
+### [React Deno Template](https://github.com/johannes-hernehult/RDT-client)
+Full stack template implementing JWT authentication, sessions, CORS, profile management, cron jobs, and sanitization. Client uses React and Zustand; [server](https://github.com/johannes-hernehult/RDT-server) built with Deno and SQLite.
+
+## Additional
+
+Currently completing CISCO Cybersecurity certification.
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/johannes-hernehult/)
