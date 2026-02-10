@@ -8,13 +8,13 @@ Currently on parental leave and seeking opportunities.
 
 **Languages:** JavaScript, TypeScript, CSS, HTML
 
-**Frontend:** React, Next.js, Zustand
+**Frontend:** React/Preact, Next.js, Zustand, Astro
 
 **Backend:** Deno
 
-**Databases:** Neon, Turso, SQLite
+**Databases:** Neon, Turso, SQLite, IndexDB
 
-**Tools:** Git, GitHub, Vercel, Netlify, Linux (Fedora), Zed
+**Tools:** Git, GitHub, Vercel, Netlify, Linux, Zed, Claude Code
 
 ## Projects
 
