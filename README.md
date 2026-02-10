@@ -1,6 +1,6 @@
 # Johannes Hernehult
 
-Full Stack Developer with frontend focus. 3.5 years professional experience.
+Full Stack Developer with frontend focus.
 
 Currently on parental leave and seeking opportunities.
 
