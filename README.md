@@ -1,21 +1,19 @@
 # Johannes Hernehult
-
-Full Stack Developer with frontend focus.
-
-Currently on parental leave and seeking opportunities.
+Frontend developer with full-stack experience, currently on parental leave and open to new opportunities.
 
 ## Tech Stack
+**Languages:** JavaScript, TypeScript, CSS, HTML  
+**Frontend:** React, Vite, React Router, Zustand, TanStack Query  
+**Backend:** Deno, Node.js  
+**CMS & E-commerce:** WordPress, WooCommerce  
+**Databases:** SQLite, Neon, Turso  
+**Deployment & Tooling:** Git, Vercel, Netlify, Linux  
+**Also explored:** Next.js, Preact, Astro, Solid.js
 
-**Languages:** JavaScript, TypeScript, CSS, HTML
-
-**Frontend:** React/Preact, Next.js, Zustand, Astro
-
-**Backend:** Deno
-
-**Databases:** Neon, Turso, SQLite, IndexDB
-
-**Tools:** Git, GitHub, Vercel, Netlify, Linux, Zed, Claude Code
+## Projects
+- [RDT-client](https://github.com/johannes-hernehult/RDT-client) – React 19 / TypeScript / Vite starter template
+- [RDT-server](https://github.com/johannes-hernehult/RDT-server) – Deno backend template with auth, SQLite, email, and validation
+- Snapsteps – step-by-step guide maker *(in progress)*
 
 ## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/johannes-hernehult/)
+[LinkedIn](https://www.linkedin.com/in/johannes-hernehult/) · jhernehult@gmail.com
